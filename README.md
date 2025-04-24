@@ -5,3 +5,9 @@ Place the Chatterbox folder (Folder with lines.tx file, not just the file, whole
 Place the Chatterbox.dll file in BepinEx plugins folder and you're good to go.
 
 lines.txt is preloaded with literally thousands of new things for Sims to say. You can leave as is or add more if you like.
+
+
+Added: Global or Local chat tab usage in config file
+Added: Removal option of <ChatterBox> tag in config file
+
+F1 menu option in game if use BepinEx Config Manager
